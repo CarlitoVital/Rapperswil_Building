@@ -85,8 +85,8 @@ the renderer).
 python -m render.animate
 ```
 
-renders the film (`out/rapperswil_jona_buildings.mp4` and `out/poster.png`) in about ten
-minutes on four cores. `--format 9x16` makes the Reels version, `--preview` a half-size
+renders the film (`out/rapperswil_jona_buildings.mp4` and `out/poster.png`) in about five
+minutes on four cores (the 9:16 version takes about half as long again). `--format 9x16` makes the Reels version, `--preview` a half-size
 draft, `--still 12.5` a single frame at 12.5 s, `--jobs 2` uses less memory.
 `python -m pytest` runs the unit tests.
 
