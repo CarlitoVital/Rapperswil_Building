@@ -1,0 +1,156 @@
+{
+ "loo": {
+  "tested": 1902,
+  "share_with_enough_neighbours": 0.656,
+  "rule_in_use": {
+   "n": 1902,
+   "mae": 2.23,
+   "exact": 0.337,
+   "within_2y": 0.672
+  },
+  "rule_where_neighbours_found": {
+   "n": 1247,
+   "mae": 1.78,
+   "exact": 0.442,
+   "within_2y": 0.736
+  },
+  "baseline_period_middle": {
+   "n": 1902,
+   "mae": 2.46,
+   "exact": 0.091,
+   "within_2y": 0.615
+  },
+  "baseline_period_draw": {
+   "n": 1902,
+   "mae": 3.25,
+   "exact": 0.132,
+   "within_2y": 0.525
+  },
+  "by_period": {
+   "8012": {
+    "rule": 6.27,
+    "middle": 6.68
+   },
+   "8013": {
+    "rule": 3.75,
+    "middle": 3.65
+   },
+   "8014": {
+    "rule": 2.3,
+    "middle": 2.51
+   },
+   "8015": {
+    "rule": 1.95,
+    "middle": 2.56
+   },
+   "8016": {
+    "rule": 0.95,
+    "middle": 1.22
+   },
+   "8017": {
+    "rule": 1.27,
+    "middle": 1.25
+   },
+   "8018": {
+    "rule": 1.16,
+    "middle": 1.27
+   },
+   "8019": {
+    "rule": 1.13,
+    "middle": 1.18
+   }
+  }
+ },
+ "landmarks": [
+  {
+   "name": "Schloss Rapperswil (13th c.)",
+   "egid": 2212910,
+   "result": "before 1919",
+   "ok": true
+  },
+  {
+   "name": "Stadtpfarrkirche St. Johann, old town",
+   "egid": 502286872,
+   "result": "before 1919",
+   "ok": true
+  },
+  {
+   "name": "Kapuzinerkloster Rapperswil (1606)",
+   "egid": 502286955,
+   "result": "before 1919",
+   "ok": true
+  },
+  {
+   "name": "Kloster Wurmsbach (founded 1259)",
+   "egid": 502284928,
+   "result": "before 1919",
+   "ok": true
+  },
+  {
+   "name": "Hotel Schwanen, old town",
+   "egid": 1124404,
+   "result": "before 1919",
+   "ok": true
+  },
+  {
+   "name": "Hochschule Rapperswil (founded 1972)",
+   "egid": 502286733,
+   "result": "1972",
+   "ok": true
+  }
+ ],
+ "per_period": {
+  "…–1918": {
+   "register": 711,
+   "drawn": 680
+  },
+  "1919–1945": {
+   "register": 491,
+   "drawn": 478
+  },
+  "1946–1960": {
+   "register": 557,
+   "drawn": 532
+  },
+  "1961–1970": {
+   "register": 600,
+   "drawn": 527
+  },
+  "1971–1980": {
+   "register": 858,
+   "drawn": 762
+  },
+  "1981–1985": {
+   "register": 463,
+   "drawn": 416
+  },
+  "1986–1990": {
+   "register": 387,
+   "drawn": 343
+  },
+  "1991–1995": {
+   "register": 301,
+   "drawn": 257
+  },
+  "1996–2000": {
+   "register": 486,
+   "drawn": 418
+  },
+  "2001–2005": {
+   "register": 354,
+   "drawn": 308
+  },
+  "2006–2010": {
+   "register": 245,
+   "drawn": 204
+  },
+  "2011–2015": {
+   "register": 159,
+   "drawn": 126
+  },
+  "2016–2026": {
+   "register": 389,
+   "drawn": 305
+  }
+ }
+}

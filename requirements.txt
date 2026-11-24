@@ -1,0 +1,18 @@
+# data pipeline
+numpy>=2.0
+scipy>=1.13
+pandas>=2.0
+pyarrow>=16
+requests>=2.31
+rasterio>=1.4
+pyogrio>=0.9          # reads the swissBUILDINGS3D File Geodatabases (GDAL is bundled)
+pyproj>=3.6
+shapely>=2.0
+mapbox-earcut>=1.0
+certifi
+# renderer
+numba>=0.60
+pillow>=10.3
+imageio-ffmpeg>=0.5   # an ffmpeg binary, used when none is installed
+# tests
+pytest>=8
